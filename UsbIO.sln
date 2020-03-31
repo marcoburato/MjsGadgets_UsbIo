@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbIoConsoleApp", "UsbIoConsoleApp\UsbIoConsoleApp.csproj", "{90C800B4-2B3D-4FAE-B344-3C29D02623BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbIoLib", "UsbIoLib\UsbIoLib.csproj", "{EC65D718-6B77-46CE-B09A-0A1091EC2A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C800B4-2B3D-4FAE-B344-3C29D02623BA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{90C800B4-2B3D-4FAE-B344-3C29D02623BA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{90C800B4-2B3D-4FAE-B344-3C29D02623BA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{90C800B4-2B3D-4FAE-B344-3C29D02623BA}.Release|anycpu.Build.0 = Release|anycpu
+		{EC65D718-6B77-46CE-B09A-0A1091EC2A4E}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{EC65D718-6B77-46CE-B09A-0A1091EC2A4E}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{EC65D718-6B77-46CE-B09A-0A1091EC2A4E}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{EC65D718-6B77-46CE-B09A-0A1091EC2A4E}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
